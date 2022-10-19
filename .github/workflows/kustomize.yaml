@@ -4,7 +4,7 @@ on:
 
 env:
   RG_NAME: "RG-AKS-Lab-11-elisa"
-  CLUSTER_NAME: "AKS-Lab-11-elisa"
+  CLUSTER_NAME: "AKS-Lab-11"
 
 
 jobs:
