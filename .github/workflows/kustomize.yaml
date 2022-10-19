@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 
 env:
-  RG_NAME: "RG-AKS-Lab-11-elisa"
+  RG_NAME: "RG-AKS-Lab-11"
   CLUSTER_NAME: "AKS-Lab-11-elisa"
 
 
